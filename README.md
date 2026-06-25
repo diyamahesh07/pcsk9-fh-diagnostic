@@ -1,1 +1,2 @@
 # pcsk9-fh-diagnostic
+Familial Hypercholesterolemia is a genetic condition that causes fatal cardiovascular disease, and most people don't know they have it until it's too late. This pipeline combines NCBI ClinVar variant data, PubChem bioassay activity records, and machine learning to identify which PCSK9, LDLR, and APOB variants confer the highest risk, producing a concrete proposal for a genetic blood test diagnostic.
