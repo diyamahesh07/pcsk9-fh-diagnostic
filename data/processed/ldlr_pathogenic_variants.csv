@@ -1,0 +1,199 @@
+variation_id,name,clinical_significance
+4856688,NM_000527.5(LDLR):c.1428_1431delinsTTT (p.Asp477fs),Pathogenic
+4856670,NM_000527.5(LDLR):c.1009G>T (p.Glu337Ter),Pathogenic
+4853802,NM_000527.5(LDLR):c.1962_1963del (p.Phe655fs),Pathogenic
+4852367,NM_000527.5(LDLR):c.1837del (p.Val613fs),Likely pathogenic
+4851367,NM_000527.5(LDLR):c.384_385del (p.Cys128_Asp129delinsTer),Pathogenic
+4850741,NM_000527.5(LDLR):c.1619C>T (p.Ala540Val),Likely pathogenic
+4848586,NM_000527.5(LDLR):c.1447T>A (p.Trp483Arg),Pathogenic
+4847740,NC_000019.9:g.(11231199_11233849)_(11244497_?)del,Pathogenic
+4845403,NM_000527.5(LDLR):c.2312-966_2390-336del,Pathogenic
+4825490,NM_000527.5(LDLR):c.2041T>C (p.Cys681Arg),Likely pathogenic
+4825489,NM_000527.5(LDLR):c.1294del (p.Leu432fs),Pathogenic
+4823870,GRCh37/hg19 19p13.2(chr19:11226770-11227674)x3,Pathogenic
+4820564,NM_000527.4:c.(?_-1)_(2140+1_2141-1)del,Pathogenic
+4820448,NM_000527.4:c.(1845+1_1846-1)_(2311+1_2312-1)del,Pathogenic
+4820447,NM_000527.4:c.(940+1_941-1)_(1586+1_1587-1)del,Pathogenic
+4820289,NM_000527.5(LDLR):c.1706-2_1710dup,Pathogenic
+4819959,NM_000527.5(LDLR):c.236_245del (p.Val79fs),Likely pathogenic
+4819958,NM_000527.5(LDLR):c.78dup (p.Cys27fs),Likely pathogenic
+4814303,NM_000527.5(LDLR):c.636del (p.Ser213fs),Likely pathogenic
+4814302,NM_000527.5(LDLR):c.481_490del (p.Ile161fs),Likely pathogenic
+4813630,NM_000527.5(LDLR):c.1742_1753del (p.Lys581_Ser584del),Likely pathogenic
+4813276,NM_000527.5(LDLR):c.1130_1131delinsCT (p.Cys377Ser),Likely pathogenic
+4813275,NM_000527.5(LDLR):c.1125dup (p.Lys376fs),Pathogenic
+4812877,NM_000527.5(LDLR):c.107_129del (p.Asp36fs),Pathogenic
+4812876,NM_000527.5(LDLR):c.408C>G (p.Asp136Glu),Likely pathogenic
+4812875,NM_000527.5(LDLR):c.49del (p.Ala17fs),Pathogenic
+4812872,NM_000527.5(LDLR):c.2076del (p.Lys693fs),Pathogenic
+4812851,NM_000527.5(LDLR):c.155G>T (p.Cys52Phe),Likely pathogenic
+4812849,NM_000527.5(LDLR):c.182_186dup (p.Cys63fs),Likely pathogenic
+4812843,NM_000527.5(LDLR):c.457T>C (p.Phe153Leu),Likely pathogenic
+4812842,NM_000527.5(LDLR):c.1840T>G (p.Phe614Val),Likely pathogenic
+4812837,NM_000527.5(LDLR):c.2468_2469del (p.Asn822_Phe823insTer),Pathogenic
+4812828,NM_000527.5(LDLR):c.1490_1491del (p.Thr497fs),Pathogenic
+4812827,NM_000527.5(LDLR):c.848del (p.Lys283fs),Pathogenic
+4810747,NM_000527.5(LDLR):c.1054T>G (p.Cys352Gly),Likely pathogenic
+4802605,NM_000527.5(LDLR):c.1961T>G (p.Leu654Arg),Likely pathogenic
+4802604,NM_000527.5(LDLR):c.1865A>T (p.Asp622Val),Likely pathogenic
+4802602,NM_000527.5(LDLR):c.1724T>A (p.Leu575His),Likely pathogenic
+4802599,NM_000527.5(LDLR):c.1074T>G (p.Cys358Trp),Likely pathogenic
+4802598,NM_000527.5(LDLR):c.986G>C (p.Cys329Ser),Likely pathogenic
+4802595,NM_000527.5(LDLR):c.648T>G (p.Cys216Trp),Likely pathogenic
+4802594,NM_000527.5(LDLR):c.398A>G (p.Asp133Gly),Likely pathogenic
+4796812,NM_000527.5(LDLR):c.680del (p.Asp227fs),Likely pathogenic
+4771976,NM_000527.5(LDLR):c.483C>G (p.Ile161Met),Likely pathogenic
+4763895,NM_000527.5(LDLR):c.173_176dup (p.Gln60fs),Pathogenic
+4758041,NM_000527.5(LDLR):c.1067A>G (p.Asp356Gly),Likely pathogenic
+4755539,NM_000527.5(LDLR):c.2013_2014dup (p.Leu672fs),Pathogenic
+4735252,NM_000527.5(LDLR):c.2220del (p.His740fs),Pathogenic
+4733870,NM_000527.5(LDLR):c.1528del (p.Thr510fs),Pathogenic
+4733629,NM_000527.5(LDLR):c.1277del (p.Leu426fs),Pathogenic
+4729680,NM_000527.5(LDLR):c.2291_2292dup (p.Val765Ter),Pathogenic
+4728244,NM_000527.5(LDLR):c.1728del (p.Trp577fs),Pathogenic
+4727742,NM_000527.5(LDLR):c.671_681dup (p.Glu228fs),Pathogenic
+4727644,NM_000527.5(LDLR):c.1721_1722dup (p.Leu575fs),Pathogenic
+4726831,NM_000527.5(LDLR):c.818-1G>T,Pathogenic
+4725725,NM_000527.5(LDLR):c.325dup (p.Cys109fs),Pathogenic
+4722996,NM_000527.5(LDLR):c.1136dup (p.Cys379fs),Pathogenic
+4721653,NM_000527.5(LDLR):c.1636_1637del (p.Gly546fs),Pathogenic
+4715103,NM_000527.5(LDLR):c.1240_1247dup (p.Ser417fs),Pathogenic
+4714333,NM_000527.5(LDLR):c.1781dup (p.Asn594fs),Pathogenic
+4713364,NM_000527.5(LDLR):c.491dup (p.Trp165fs),Pathogenic
+4712681,NM_000527.5(LDLR):c.2500dup (p.Asp834fs),Pathogenic
+4710494,NM_000527.5(LDLR):c.187del (p.Cys63fs),Pathogenic
+4708249,NM_000527.5(LDLR):c.1297G>A (p.Asp433Asn),Likely pathogenic
+4695160,NM_000527.5(LDLR):c.325T>A (p.Cys109Ser),Pathogenic
+4690271,NC_000019.9:g.(11225605_11226769)_(11234020_11236352)del,Likely pathogenic
+4687151,NM_000527.5(LDLR):c.1628_1632del (p.Lys543fs),Pathogenic
+4683176,NM_000527.5(LDLR):c.915del (p.Trp305fs),Likely pathogenic
+4683175,NM_000527.5(LDLR):c.1681dup (p.Gln561fs),Pathogenic
+4683172,NM_000527.5(LDLR):c.1940dup (p.Ser648fs),Pathogenic
+4683166,NM_000527.5(LDLR):c.416_420del (p.Asp139fs),Pathogenic
+4614505,NM_000527.5(LDLR):c.397del (p.Asp133fs),Pathogenic
+4540597,NM_000527.5(LDLR):c.348C>A (p.Cys116Ter),Likely pathogenic
+4540594,NM_000527.5(LDLR):c.632A>G (p.His211Arg),Likely pathogenic
+4540592,NM_000527.5(LDLR):c.1061-3_1061dup,Likely pathogenic
+4538567,NM_000527.4:c.(940+1_941-1)_(1845+1_1846-1)del,Pathogenic
+4538566,NM_000527.4:c.(940+1_941-1)_(1586+1_1587-1)del,Pathogenic
+4538565,NM_000527.4:c.(940+1_941-1)_(1186+1_1187-1)del,Pathogenic
+4538564,NM_000527.4:c.(2311+1_2312-1)_(2547+1_2548-1)dup,Pathogenic
+4538563,NM_000527.4:c.(2311+1_2312-1)_(2389+1_2390-1)del,Pathogenic
+4538562,NM_000527.4:c.(190+1_191-1)_(940+1_941-1)dup,Likely pathogenic
+4538561,NM_000527.4:c.(190+1_191-1)_(313+1_314-1)del,Pathogenic
+4538560,NM_000527.4:c.(1845+1_1846-1)_(2311+1_2312-1)dup,Pathogenic
+4535448,GRCh37/hg19 19p13.2(chr19:11215896-11244675)x1,Pathogenic
+4532973,NM_000527.5(LDLR):c.563_569del (p.Tyr188fs),Pathogenic
+4530625,NM_000527.5(LDLR):c.270T>G (p.Asp90Glu),Likely pathogenic
+4528366,NM_000527.5(LDLR):c.68-2A>C,Pathogenic
+4526913,NM_000527.5(LDLR):c.1487del (p.Gly496fs),Pathogenic
+4526720,NM_000527.5(LDLR):c.1187-294_1845+1200del,Pathogenic
+4526682,NM_000527.5(LDLR):c.2248del (p.Ser750fs),Likely pathogenic
+4526402,NM_000527.5(LDLR):c.2106del (p.Met702fs),Likely pathogenic
+4526401,NM_000527.5(LDLR):c.2049dup (p.Ala684fs),Likely pathogenic
+4526400,NM_000527.5(LDLR):c.1984dup (p.Arg662fs),Likely pathogenic
+4526399,NM_000527.5(LDLR):c.1900del (p.Leu634fs),Likely pathogenic
+4526398,NM_000527.5(LDLR):c.1401_1402insAGCAGGGT (p.Val468fs),Likely pathogenic
+4526397,NM_000527.5(LDLR):c.2308del (p.Gln770fs),Likely pathogenic
+4526396,NM_000527.5(LDLR):c.2255del (p.Leu752fs),Likely pathogenic
+4525752,NC_000019.9:g.(11200292_11210898)_(11227675_11230767)dup,Likely pathogenic
+4291092,NM_000527.4:c.(1845+1_1846-1)_(2311+1_2312-1)del,Pathogenic
+4291091,NM_000527.4:c.(1845+1_1846-1)_(2140+1_2141-1)del,Pathogenic
+4291090,NM_000527.4:c.(1705+1_1706-1)_(1845+1_1846-1)del,Pathogenic
+4291089,NM_000527.4:c.(1586+1_1587-1)_(1845+1_1846-1)del,Pathogenic
+4291088,NM_000527.4:c.(1186+1_1187-1)_(2140+1_2141-1)dup,Likely pathogenic
+4291087,NM_000527.4:c.(1186+1_1187-1)_(1586+1_1587-1)del,Pathogenic
+4097144,NM_000527.5(LDLR):c.1154del (p.Leu385fs),Pathogenic
+4097141,NM_000527.5(LDLR):c.676_688del (p.Ser226fs),Pathogenic
+4097140,NM_000527.5(LDLR):c.312T>A (p.Cys104Ter),Pathogenic
+4087736,NM_000527.5(LDLR):c.1706-5_1745delinsGA,Likely pathogenic
+4082332,NM_000527.5(LDLR):c.1343A>C (p.Gln448Pro),Likely pathogenic
+4081490,NM_000527.5(LDLR):c.1028G>C (p.Gly343Ala),Likely pathogenic
+4081489,NM_000527.5(LDLR):c.663_681dup (p.Glu228delinsLeuGlnGlyGlnIleTer),Likely pathogenic
+4076987,NM_000527.5(LDLR):c.1807_1808del (p.Lys603fs),Likely pathogenic
+4076986,NM_000527.5(LDLR):c.1785dup (p.Lys596fs),Likely pathogenic
+4076985,NM_000527.5(LDLR):c.1501dup (p.Ala501fs),Likely pathogenic
+4076984,NM_000527.5(LDLR):c.1181_1185delinsTGTGCAA (p.Ala394fs),Likely pathogenic
+4076983,NM_000527.5(LDLR):c.1166dup (p.Lys390fs),Likely pathogenic
+4076982,NM_000527.5(LDLR):c.1015_1036dup (p.Leu346fs),Likely pathogenic
+4076981,NM_000527.5(LDLR):c.324_325insAG (p.Cys109fs),Likely pathogenic
+4076980,NM_000527.5(LDLR):c.410del (p.Gly137fs),Likely pathogenic
+4076979,NM_000527.5(LDLR):c.2091del (p.Cys698fs),Likely pathogenic
+4076978,NM_000527.5(LDLR):c.824_826delinsCG (p.Leu275fs),Likely pathogenic
+4075804,NM_000527.5(LDLR):c.689del (p.Asn230fs),Pathogenic
+4072195,NM_000527.5(LDLR):c.2241del (p.Asp748fs),Pathogenic
+4069780,NM_000527.5(LDLR):c.1175_1186+12del,Pathogenic
+4069778,NM_000527.5(LDLR):c.633C>G (p.His211Gln),Likely pathogenic
+4046748,NM_000527.5(LDLR):c.68del (p.Val23fs),Pathogenic
+4046743,NM_000527.5(LDLR):c.207del (p.Lys69fs),Pathogenic
+4046733,NM_000527.5(LDLR):c.1141_1146del (p.Glu381_Gly382del),Likely pathogenic
+3911896,NM_000527.5:c.694+470_2141-746dup,Likely pathogenic
+3907151,NM_000527.5(LDLR):c.189C>A (p.Cys63Ter),Pathogenic
+3902573,NM_000527.5(LDLR):c.1084del (p.Asp362fs),Pathogenic
+3897928,NM_000527.5(LDLR):c.588del (p.Cys197fs),Likely pathogenic
+3896748,NM_000527.5(LDLR):c.1829C>A (p.Ser610Tyr),Likely pathogenic
+3895565,NC_000019.9:g.(?_11200138)_(11213463_11215895)del,Pathogenic
+3895464,NM_000527.4:c.(?_-1)_(67+1_68-1)del,Pathogenic
+3895428,NM_000527.4:c.(1586+1_1587-1)_(1845+1_1846-1)dup,Likely pathogenic
+3895384,NM_000527.5(LDLR):c.462_475del (p.Gln154fs),Pathogenic
+3895383,NM_000527.5(LDLR):c.1129T>A (p.Cys377Ser),Likely pathogenic
+3895221,NM_000527.4:c.(313+1_314-1)_(1586+1_1587-1)dup,Likely pathogenic
+3895059,NM_000527.4:c.(?_-1)_(1586+1_1587-1)del,Likely pathogenic
+3895057,NM_000527.4:c.(67+1_68-1)_(313+1_314-1)del,Pathogenic
+3895056,NM_000527.4:c.(190+1_191-1)_(313+1_314-1)del,Likely pathogenic
+3895055,NM_000527.4:c.(1586+1_1587-1)_(2140+1_2141-1)del,Pathogenic
+3895054,NM_000527.4:c.(1586+1_1587-1)_(1845+1_1846-1)del,Pathogenic
+3894793,NM_000527.5(LDLR):c.1980G>T (p.Gln660His),Likely pathogenic
+3776094,NM_000527.5(LDLR):c.590G>C (p.Cys197Ser),Likely pathogenic
+3775024,NC_000019.9:g.(11218191_11221327)_(11224438_11225603)del,Pathogenic
+3773676,NM_000527.5(LDLR):c.666_679del (p.Cys222_Asp227delinsTer),Pathogenic
+3772652,GRCh37/hg19 19p13.2(chr19:11217241-11224438)x1,Pathogenic
+3772642,GRCh37/hg19 19p13.2(chr19:11221328-11224438)x1,Pathogenic
+3769563,NC_000019.9:g.(11211022_11213339)_(11244497_?)del,Pathogenic
+3768668,NM_000527.5(LDLR):c.1337dup (p.Ser447fs),Pathogenic
+3767246,NC_000019.9:g.11194081_11213281del,Pathogenic
+3767245,NC_000019.9:g.11215453_11223569dup,Pathogenic
+3764540,NM_000527.5(LDLR):c.397G>C (p.Asp133His),Pathogenic
+3729528,NM_000527.5(LDLR):c.811del (p.Val271fs),Pathogenic
+3729364,NM_000527.5(LDLR):c.1712_1716del (p.Leu571fs),Pathogenic
+3724389,NM_000527.5(LDLR):c.541_542delinsTA (p.Pro181Ter),Pathogenic
+3724050,NM_000527.5(LDLR):c.1187-2A>T,Pathogenic
+3723319,NM_000527.5(LDLR):c.762_763delinsTG (p.Gln254_Cys255delinsHisGly),Pathogenic
+3723280,NM_000527.5(LDLR):c.285C>G (p.Cys95Trp),Pathogenic
+3721826,NM_000527.5(LDLR):c.1272dup (p.Asn425fs),Pathogenic
+3721460,NM_000527.5(LDLR):c.2368_2369insGACA (p.Leu790fs),Pathogenic
+3721368,NM_000527.5(LDLR):c.1315_1316del (p.Ser438_Asn439insTer),Pathogenic
+3706408,NM_000527.5(LDLR):c.524A>G (p.Asp175Gly),Pathogenic
+3677175,NM_000527.5(LDLR):c.2429G>A (p.Trp810Ter),Pathogenic
+3667465,NM_000527.5(LDLR):c.968G>A (p.Gly323Asp),Likely pathogenic
+3658602,NM_000527.5(LDLR):c.2234_2244del (p.Pro745fs),Pathogenic
+3657376,NM_000527.5(LDLR):c.487dup (p.Gln163fs),Pathogenic
+3656834,NM_000527.5(LDLR):c.2389+1G>C,Pathogenic
+3655986,NM_000527.5(LDLR):c.51del (p.Ala18fs),Pathogenic
+3655773,NM_000527.5(LDLR):c.1728C>G (p.Tyr576Ter),Pathogenic
+3655240,NM_000527.5(LDLR):c.487del (p.Gln163fs),Pathogenic
+3645738,NM_000527.5(LDLR):c.1593del (p.Met531fs),Pathogenic
+3642923,NM_000527.5(LDLR):c.1139_1153del (p.Glu380_Leu385delinsVal),Pathogenic
+3639450,NM_000527.5(LDLR):c.1449_1450delinsTT (p.Trp483_Ile484delinsCysPhe),Pathogenic
+3636911,NM_000527.5(LDLR):c.2053C>G (p.Pro685Ala),Likely pathogenic
+3636910,NM_000527.5(LDLR):c.1952A>G (p.Asp651Gly),Likely pathogenic
+3636904,NM_000527.5(LDLR):c.1294C>A (p.Leu432Met),Likely pathogenic
+3636903,NM_000527.5(LDLR):c.1018T>G (p.Cys340Gly),Likely pathogenic
+3636900,NM_000527.5(LDLR):c.551G>T (p.Cys184Phe),Likely pathogenic
+3636898,NM_000527.5(LDLR):c.280G>C (p.Asp94His),Likely pathogenic
+3636897,NM_000527.5(LDLR):c.167C>T (p.Ser56Phe),Likely pathogenic
+3629931,NM_000527.5(LDLR):c.1037_1039delinsCGGA (p.Leu346fs),Pathogenic
+3600610,NM_000527.5(LDLR):c.2390-2A>C,Pathogenic
+3572132,NM_000527.5(LDLR):c.1846-2A>G,Likely pathogenic
+3537746,NM_000527.5(LDLR):c.1108A>T (p.Asn370Tyr),Likely pathogenic
+3537736,NM_000527.5(LDLR):c.2054dup (p.Gln686fs),Pathogenic
+3537730,NM_000527.5(LDLR):c.2041_2042del (p.Cys681fs),Pathogenic
+3386979,NM_000527.5(LDLR):c.284G>C (p.Cys95Ser),Likely pathogenic
+3377558,NM_000527.5(LDLR):c.1845G>C (p.Glu615Asp),Likely pathogenic
+3377358,NM_000527.5(LDLR):c.1568dup (p.Val524fs),Pathogenic
+3377107,NM_000527.5(LDLR):c.686A>T (p.Glu229Val),Likely pathogenic
+3376633,NM_000527.5(LDLR):c.581_583delinsCTGCTCG (p.Ser194fs),Pathogenic
+3376573,NM_000527.5(LDLR):c.1285_1289dup (p.Ala431fs),Pathogenic
+3374772,NM_000527.5(LDLR):c.661G>C (p.Asp221His),Likely pathogenic
+3366495,NC_000019.9:g.(11227675_11230767)_(11231199_11233849)del,Pathogenic
+3360686,NM_000527.5(LDLR):c.68-1G>T,Pathogenic
