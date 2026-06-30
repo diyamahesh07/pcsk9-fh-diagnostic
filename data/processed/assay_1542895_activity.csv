@@ -1,0 +1,3 @@
+AID,SID,CID,Activity Outcome,Target Accession,Target GeneID,Activity Value [uM],Activity Name,Assay Name,Assay Type,PubMed ID,RNAi
+1542895,440117162,155515410,Unspecified,P01130,3949,,,Binding affinity to C-terminal His tagged purified recombinant PCSK9 D374Y mutant (unknown origin) expressed in HEK293 cells assessed as reduction in PCSK9/LDLR protein-protein interaction at 100 uM by chemiluminescent assay,Other,30996774,
+1542895,440117162,155515410,Unspecified,Q8NBP7,255738,,,Binding affinity to C-terminal His tagged purified recombinant PCSK9 D374Y mutant (unknown origin) expressed in HEK293 cells assessed as reduction in PCSK9/LDLR protein-protein interaction at 100 uM by chemiluminescent assay,Other,30996774,

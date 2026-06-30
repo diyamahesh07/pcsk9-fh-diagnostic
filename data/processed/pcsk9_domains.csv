@@ -1,0 +1,7 @@
+type,description,start,end
+Domain,Inhibitor I9,77,149
+Domain,Peptidase S8,155,461
+Region,C-terminal domain,450,692
+Active site,Charge relay system,186,186
+Active site,Charge relay system,226,226
+Active site,Charge relay system,386,386

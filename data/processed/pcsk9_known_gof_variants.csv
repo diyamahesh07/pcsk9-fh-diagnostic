@@ -1,0 +1,5 @@
+variant,position_aa,effect,domain
+S127R,127,GOF,Prodomain
+F216L,216,GOF,Catalytic
+D374Y,374,GOF,Catalytic
+R218S,218,GOF,Catalytic

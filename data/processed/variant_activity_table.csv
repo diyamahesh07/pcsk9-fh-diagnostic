@@ -1,0 +1,5 @@
+variant,gene,type,domain,pubchem_aid,assay_readout,functional_effect,pubmed_id,fh_associated
+D374Y,PCSK9,GOF,Catalytic,1542895.0,PCSK9/LDLR protein-protein interaction (chemiluminescent),"Increased PCSK9-LDLR binding, reduced LDL uptake",30996774.0,True
+S127R,PCSK9,GOF,Prodomain,,Literature-confirmed GOF,Increased PCSK9 secretion and activity,,True
+F216L,PCSK9,GOF,Catalytic,,Literature-confirmed GOF,Increased PCSK9 activity,,True
+R218S,PCSK9,GOF,Catalytic,,Literature-confirmed GOF,Increased PCSK9 activity,,True
