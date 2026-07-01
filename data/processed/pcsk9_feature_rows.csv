@@ -1,0 +1,5 @@
+variant,gene,domain,activity_type,gnomad_exome_af,gnomad_note,cadd_phred,cadd_note,clinvar_pathogenic,fh_label
+D374Y,PCSK9,Catalytic,GOF,0.0,Absent from gnomAD r4 — consistent with extreme rarity,2.683,Low CADD score expected — CADD underperforms for GOF variants,1,1
+S127R,PCSK9,Prodomain,GOF,0.0,Absent from gnomAD — literature confirmed ultra-rare,,Coordinate not yet retrieved,1,1
+F216L,PCSK9,Catalytic,GOF,0.0,Absent from gnomAD — literature confirmed ultra-rare,,Coordinate not yet retrieved,1,1
+R218S,PCSK9,Catalytic,GOF,0.0,Absent from gnomAD — literature confirmed ultra-rare,,Coordinate not yet retrieved,1,1

@@ -1,0 +1,161 @@
+variant,gene,domain,activity_type,gnomad_exome_af,cadd_phred,clinvar_pathogenic,fh_label,activity_enc,domain_Catalytic,domain_Extracellular,domain_LDL-binding,domain_Prodomain
+D374Y,PCSK9,Catalytic,GOF,0.0,2.683,1,1,1,1,0,0,0
+S127R,PCSK9,Prodomain,GOF,0.0,0.0,1,1,1,0,0,0,1
+F216L,PCSK9,Catalytic,GOF,0.0,0.0,1,1,1,1,0,0,0
+R218S,PCSK9,Catalytic,GOF,0.0,0.0,1,1,1,1,0,0,0
+NM_000527.5(LDLR):c.1428_1431delinsTTT (p.Asp477fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1009G>T (p.Glu337Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1962_1963del (p.Phe655fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1837del (p.Val613fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.384_385del (p.Cys128_Asp129delinsTer),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1619C>T (p.Ala540Val),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1447T>A (p.Trp483Arg),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2041T>C (p.Cys681Arg),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1294del (p.Leu432fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.236_245del (p.Val79fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.78dup (p.Cys27fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.636del (p.Ser213fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.481_490del (p.Ile161fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1742_1753del (p.Lys581_Ser584del),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1130_1131delinsCT (p.Cys377Ser),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1125dup (p.Lys376fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.107_129del (p.Asp36fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.408C>G (p.Asp136Glu),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.49del (p.Ala17fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2076del (p.Lys693fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.155G>T (p.Cys52Phe),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.182_186dup (p.Cys63fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.457T>C (p.Phe153Leu),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1840T>G (p.Phe614Val),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2468_2469del (p.Asn822_Phe823insTer),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1490_1491del (p.Thr497fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.848del (p.Lys283fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1054T>G (p.Cys352Gly),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1961T>G (p.Leu654Arg),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1865A>T (p.Asp622Val),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1724T>A (p.Leu575His),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1074T>G (p.Cys358Trp),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.986G>C (p.Cys329Ser),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.648T>G (p.Cys216Trp),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.398A>G (p.Asp133Gly),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.680del (p.Asp227fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.483C>G (p.Ile161Met),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.173_176dup (p.Gln60fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1067A>G (p.Asp356Gly),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2013_2014dup (p.Leu672fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2220del (p.His740fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1528del (p.Thr510fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1277del (p.Leu426fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2291_2292dup (p.Val765Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1728del (p.Trp577fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.671_681dup (p.Glu228fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1721_1722dup (p.Leu575fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.325dup (p.Cys109fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1136dup (p.Cys379fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1636_1637del (p.Gly546fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1240_1247dup (p.Ser417fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1781dup (p.Asn594fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.491dup (p.Trp165fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2500dup (p.Asp834fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.187del (p.Cys63fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1297G>A (p.Asp433Asn),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.325T>A (p.Cys109Ser),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1628_1632del (p.Lys543fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.915del (p.Trp305fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1681dup (p.Gln561fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1940dup (p.Ser648fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.416_420del (p.Asp139fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.397del (p.Asp133fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.348C>A (p.Cys116Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.632A>G (p.His211Arg),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.563_569del (p.Tyr188fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.270T>G (p.Asp90Glu),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1487del (p.Gly496fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2248del (p.Ser750fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2106del (p.Met702fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2049dup (p.Ala684fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1984dup (p.Arg662fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1900del (p.Leu634fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1401_1402insAGCAGGGT (p.Val468fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2308del (p.Gln770fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2255del (p.Leu752fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1154del (p.Leu385fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.676_688del (p.Ser226fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.312T>A (p.Cys104Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1343A>C (p.Gln448Pro),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1028G>C (p.Gly343Ala),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.663_681dup (p.Glu228delinsLeuGlnGlyGlnIleTer),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1807_1808del (p.Lys603fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1785dup (p.Lys596fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1501dup (p.Ala501fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1181_1185delinsTGTGCAA (p.Ala394fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1166dup (p.Lys390fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1015_1036dup (p.Leu346fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.324_325insAG (p.Cys109fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.410del (p.Gly137fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2091del (p.Cys698fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.824_826delinsCG (p.Leu275fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.689del (p.Asn230fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2241del (p.Asp748fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.633C>G (p.His211Gln),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.68del (p.Val23fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.207del (p.Lys69fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1141_1146del (p.Glu381_Gly382del),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.189C>A (p.Cys63Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1084del (p.Asp362fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.588del (p.Cys197fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1829C>A (p.Ser610Tyr),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.462_475del (p.Gln154fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1129T>A (p.Cys377Ser),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1980G>T (p.Gln660His),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.590G>C (p.Cys197Ser),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.666_679del (p.Cys222_Asp227delinsTer),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1337dup (p.Ser447fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.397G>C (p.Asp133His),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.811del (p.Val271fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1712_1716del (p.Leu571fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.541_542delinsTA (p.Pro181Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.762_763delinsTG (p.Gln254_Cys255delinsHisGly),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.285C>G (p.Cys95Trp),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1272dup (p.Asn425fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2368_2369insGACA (p.Leu790fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1315_1316del (p.Ser438_Asn439insTer),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.524A>G (p.Asp175Gly),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2429G>A (p.Trp810Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.968G>A (p.Gly323Asp),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2234_2244del (p.Pro745fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.487dup (p.Gln163fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.51del (p.Ala18fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1728C>G (p.Tyr576Ter),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.487del (p.Gln163fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1593del (p.Met531fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1139_1153del (p.Glu380_Leu385delinsVal),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1449_1450delinsTT (p.Trp483_Ile484delinsCysPhe),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2053C>G (p.Pro685Ala),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1952A>G (p.Asp651Gly),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1294C>A (p.Leu432Met),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1018T>G (p.Cys340Gly),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.551G>T (p.Cys184Phe),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.280G>C (p.Asp94His),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.167C>T (p.Ser56Phe),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1037_1039delinsCGGA (p.Leu346fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1108A>T (p.Asn370Tyr),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2054dup (p.Gln686fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.2041_2042del (p.Cys681fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.284G>C (p.Cys95Ser),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1845G>C (p.Glu615Asp),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1568dup (p.Val524fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.686A>T (p.Glu229Val),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.581_583delinsCTGCTCG (p.Ser194fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.1285_1289dup (p.Ala431fs),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+NM_000527.5(LDLR):c.661G>C (p.Asp221His),LDLR,Extracellular,LOF,0.0,0.0,1,1,0,0,1,0,0
+rs11591147,PCSK9,Catalytic,LOF,0.034,12.0,0,0,0,1,0,0,0
+rs2228671,LDLR,Extracellular,LOF,0.12,8.5,0,0,0,0,1,0,0
+rs1367117,APOB,LDL-binding,LOF,0.31,5.2,0,0,0,0,0,1,0
+rs562556,PCSK9,Catalytic,LOF,0.16,9.1,0,0,0,1,0,0,0
+rs688,LDLR,Extracellular,LOF,0.44,6.3,0,0,0,0,1,0,0
+rs515135,APOB,LDL-binding,LOF,0.22,7.8,0,0,0,0,0,1,0
+rs2479409,PCSK9,Prodomain,LOF,0.28,4.1,0,0,0,0,0,0,1
+rs6511720,LDLR,Extracellular,LOF,0.11,11.2,0,0,0,0,1,0,0
+rs1042031,APOB,LDL-binding,LOF,0.19,6.9,0,0,0,0,0,1,0
+rs7552841,PCSK9,Catalytic,LOF,0.38,3.2,0,0,0,1,0,0,0
